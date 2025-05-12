@@ -78,8 +78,7 @@ Google Colab	Interactive runtime and UI
 1. Clone the Repository
 bash
 CopyEdit
-git clone https://github.com/SriAbhirami/Industrial-defect-detector.git
-cd Industrial-defect-detector
+git clone https://github.com/Shreya492004/Industrial-Defect-Detector-Using-Open-cv.git
 2. Install Dependencies
 bash
 CopyEdit
